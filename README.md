@@ -119,5 +119,8 @@
 
 고객을 R,F,M 세가지 기준에 따라 수익에 기여를 많이 하는 고객을 선별하는 기법
 
-![image](https://user-images.githubusercontent.com/85742844/166098282-ff3cf28b-0bb1-40f6-a846-8b9d538e5f3f.png)
+![title](https://user-images.githubusercontent.com/85742844/166098282-ff3cf28b-0bb1-40f6-a846-8b9d538e5f3f.png)
+
+
+https://public.tableau.com/views/RFM_Retention_Project/__5?:showVizHome=no&:embed=true
 
