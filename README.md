@@ -100,7 +100,8 @@
        → 차이코퍼레이션의 2019-08-01부터 2020-03-31 까지의 데이터를 사용
 
 ## 📎기존 데이터
-![image](https://user-images.githubusercontent.com/85742844/166098239-f29e352a-0d09-4d4a-aaaf-fc22ff1dd329.png)
+<center> ![image](https://user-images.githubusercontent.com/85742844/166098239-f29e352a-0d09-4d4a-aaaf-fc22ff1dd329.png) </center>
+
 
 
 ## ⚙️Feature Engineering
@@ -120,7 +121,16 @@
 고객을 R,F,M 세가지 기준에 따라 수익에 기여를 많이 하는 고객을 선별하는 기법
 
 ![title](https://user-images.githubusercontent.com/85742844/166098282-ff3cf28b-0bb1-40f6-a846-8b9d538e5f3f.png)
+<br/>
+
+거래의 최근성, 거래의 빈도수, 거래의 규모를 기준으로 고객들에게 코드를 부여하고 부여된 코드들을 공통점으로 묶어서 등급을 매기는 분석 방법
+
+<br/>
+
+![image](https://user-images.githubusercontent.com/85742844/166099005-929defc8-c46a-46b8-b34b-5112e7ced754.png)
 
 
-https://public.tableau.com/views/RFM_Retention_Project/__5?:showVizHome=no&:embed=true
+
+
+
 
