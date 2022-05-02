@@ -100,7 +100,7 @@
        → 차이코퍼레이션의 2019-08-01부터 2020-03-31 까지의 데이터를 사용
 
 ## 📎기존 데이터
-<center> ![image](https://user-images.githubusercontent.com/85742844/166098239-f29e352a-0d09-4d4a-aaaf-fc22ff1dd329.png) </center>
+![image](https://user-images.githubusercontent.com/85742844/166098239-f29e352a-0d09-4d4a-aaaf-fc22ff1dd329.png)
 
 
 
