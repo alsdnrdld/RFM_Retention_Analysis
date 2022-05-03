@@ -130,6 +130,39 @@
 ![image](https://user-images.githubusercontent.com/85742844/166099005-929defc8-c46a-46b8-b34b-5112e7ced754.png)
 
 
+<br/>
+
+### 2 ) 파레토 차트
+
+파레토 원칙이 성립하는지를 차트를 통해 확인 해보고 파레토 원칙에 입각하여 수 많은 고객군들 중 분석할 고객군을 선정.
+
+<br/>
+
+![image](https://user-images.githubusercontent.com/85742844/166351119-ffbaaa4c-26bf-48d5-a48e-d1bab218c94a.png)
+
+<br/>
+
+### 3 ) 코호트 분석
+
+고객군의 공통된 행동 및 경험을 분석하여 소비 트랜드를 알아내고 그에 알맞는 전략을 제시하고자 함
+
+<br/>
+
+![image](https://user-images.githubusercontent.com/85742844/166353224-aab9301e-ca62-4bee-9be0-d205da287e20.png)
+
+<br/>
+
+<br/>
+
+<br/>
+
+## 3 ] 데이터 전처리 : EDA
+
+### 1 ) 결측치 확인
+
+### ▶ **Missingno 사용하여 결측치 확인**
+
+![image](https://user-images.githubusercontent.com/85742844/166355891-95c907e7-acfc-4a3d-a841-6b910437ff46.png)
 
 
 
